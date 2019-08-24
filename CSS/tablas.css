@@ -1,0 +1,23 @@
+.tabla{
+	margin:auto;
+	border: 1px solid;
+	text-align: center;
+	border-spacing:10px;
+	background:#6495ED;
+}
+.tabla .imagenes{
+	border:1px solid;
+}
+td{
+	border:1px solid;
+}
+
+.tabla .imagenes img:hover{
+	background:#87CEFA;
+	 width:103%;
+	 height:103%;
+}
+.tabla th{
+	background:#DCDCDC;
+}
+
